@@ -57,6 +57,10 @@ people2:
   pic: 8
   position: co-founder
 
+- name: Jack Goodman
+  pic: 9
+  position: co-founder
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   # - title: twitter
