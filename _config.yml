@@ -46,6 +46,9 @@ people:
   pic: 6
   position: co-founder
 
+# Team names, titles and social links (second row)
+people2:
+
 - name: Sam Wickham
   pic: 7
   position: co-founder
