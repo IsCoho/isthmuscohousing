@@ -37,16 +37,12 @@ people:
   pic: 7
   position: co-founder
 
-- name: Bill Mania
-  pic: 8
+- name: Jack Goodman
+  pic: 9
   position: co-founder
 
 # Team names, titles and social links (second row) (put up to 6 entries in a row)
 people2:
-
-- name: Jack Goodman
-  pic: 9
-  position: co-founder
 
 - name: Peter Beeson
   pic: 10
